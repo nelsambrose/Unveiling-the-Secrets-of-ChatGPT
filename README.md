@@ -1,19 +1,26 @@
 # Unveiling the Secrets of ChatGPT: Inside the Mind of an AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PDF](https://img.shields.io/badge/Download-PDF-blue.svg)](./Unveiling%20the%20Secrets%20of%20ChatGPT_%20Inside%20the%20Mind%20of%20an%20AI.pdf)
 [![GitHub stars](https://img.shields.io/github/stars/nelsambrose/Unveiling-the-Secrets-of-ChatGPT?style=social)](https://github.com/nelsambrose/Unveiling-the-Secrets-of-ChatGPT/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/nelsambrose/Unveiling-the-Secrets-of-ChatGPT)](https://github.com/nelsambrose/Unveiling-the-Secrets-of-ChatGPT/commits/main)
 
-> A free, accessible mini-book that demystifies how ChatGPT works — from its architecture and context handling to continuous learning and the future of conversational AI.
+> A mini-book that demystifies how ChatGPT works — from its architecture and context handling to continuous learning and the future of conversational AI.
+
+---
+
+## Get the Book
+
+| Store | Link |
+|---|---|
+| Amazon (Kindle) | [Buy on Amazon](https://www.amazon.com/Unveiling-Secrets-ChatGPT-Inside-Mind-ebook/dp/B0F6K9LBXZ) |
+| Apple Books | [Buy on Apple Books](https://books.apple.com/us/book/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai/id6737278904) |
+| Barnes & Noble | [Buy on Barnes & Noble](https://www.barnesandnoble.com/w/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai-nelson-ambrose/1146458300?ean=2940180640291) |
 
 ---
 
 ## Why Read This?
 
 Most people use ChatGPT daily but few understand what's happening under the hood. This mini-book bridges that gap — written for both **technical and non-technical readers** — covering the real mechanisms behind how ChatGPT understands you, remembers context, handles ambiguity, and keeps improving.
-
-**[Download the PDF](./Unveiling%20the%20Secrets%20of%20ChatGPT_%20Inside%20the%20Mind%20of%20an%20AI.pdf)**
 
 ---
 
@@ -78,7 +85,7 @@ Reflect on the insights gained and look ahead to the future of conversational AI
 
 ## How to Use This Book
 
-This mini-book is designed for both technical and non-technical readers. Each chapter builds on the previous ones, but they can also be read independently based on your interests. Simply **[download the PDF](./Unveiling%20the%20Secrets%20of%20ChatGPT_%20Inside%20the%20Mind%20of%20an%20AI.pdf)** and start wherever curiosity takes you.
+This mini-book is designed for both technical and non-technical readers. Each chapter builds on the previous ones, but they can also be read independently based on your interests.
 
 ---
 
