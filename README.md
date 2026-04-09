@@ -14,8 +14,10 @@
 | Store | Link |
 |---|---|
 | Amazon (Kindle) | [Buy on Amazon](https://www.amazon.com/Unveiling-Secrets-ChatGPT-Inside-Mind-ebook/dp/B0F6K9LBXZ) |
+| Amazon UK (Kindle) | [Buy on Amazon UK](https://www.amazon.co.uk/Unveiling-Secrets-ChatGPT-Inside-Mind-ebook/dp/B0F6K9LBXZ) |
 | Apple Books | [Buy on Apple Books](https://books.apple.com/us/book/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai/id6737278904) |
 | Barnes & Noble | [Buy on Barnes & Noble](https://www.barnesandnoble.com/w/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai-nelson-ambrose/1146458300?ean=2940180640291) |
+| Kobo | [Buy on Kobo](https://www.kobo.com/ie/en/ebook/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai) |
 
 **Not sure yet?** [Read Chapter 1 for free](./ChatGPT-Secrets-Chapter1-Preview.pdf) and get a feel for the book before you buy.
 
